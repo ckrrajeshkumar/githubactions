@@ -19,6 +19,6 @@ jobs:
       run: pip install pytest
 
     - name: Run tests
-      run: pytest addition.py
+      run: pytest src/addition.py
 
 
